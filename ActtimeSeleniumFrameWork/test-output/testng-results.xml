@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45897" started-at="2018-06-09T02:50:01Z" finished-at="2018-06-09T02:50:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45897" started-at="2018-06-09T02:50:01Z" finished-at="2018-06-09T02:50:47Z">
+      <class name="com.acttime.usertest.UserTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBC" is-config="true" duration-ms="13996" started-at="2018-06-09T02:50:01Z" finished-at="2018-06-09T02:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBm" is-config="true" duration-ms="2094" started-at="2018-06-09T02:50:15Z" finished-at="2018-06-09T02:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="createUserTest()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="createUserTest" duration-ms="4709" started-at="2018-06-09T02:50:17Z" finished-at="2018-06-09T02:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBM" is-config="true" duration-ms="653" started-at="2018-06-09T02:50:22Z" finished-at="2018-06-09T02:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBm" is-config="true" duration-ms="2842" started-at="2018-06-09T02:50:23Z" finished-at="2018-06-09T02:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="modifyUserTest()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="modifyUserTest" duration-ms="9926" started-at="2018-06-09T02:50:26Z" finished-at="2018-06-09T02:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyUserTest -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBM" is-config="true" duration-ms="1192" started-at="2018-06-09T02:50:35Z" finished-at="2018-06-09T02:50:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBm" is-config="true" duration-ms="4143" started-at="2018-06-09T02:50:37Z" finished-at="2018-06-09T02:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="searchUserTest()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="searchUserTest" duration-ms="3" started-at="2018-06-09T02:50:41Z" finished-at="2018-06-09T02:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUserTest -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configBM" is-config="true" duration-ms="4421" started-at="2018-06-09T02:50:41Z" finished-at="2018-06-09T02:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.acttime.usertest.UserTest@12d3247]" name="configAC" is-config="true" duration-ms="1847" started-at="2018-06-09T02:50:45Z" finished-at="2018-06-09T02:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.acttime.usertest.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
